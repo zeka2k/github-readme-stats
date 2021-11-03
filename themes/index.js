@@ -324,6 +324,13 @@ const themes = {
     text_color: "0088ff",
     bg_color: "193549",
   },
+  zeka2k: {
+    title_color: "DE00FF",
+    icon_color: "DE00FF",
+    text_color: "0000FF",
+    border_color:"DE00FF",
+    bg_color: "00002D",
+  },
 };
 
 module.exports = themes;
